@@ -18,4 +18,4 @@ This is a simple Python console game where the **computer guesses the number you
 Make sure you have Python 3 installed, then run:
 
 ```bash
-python3 guess_number.py
+python3 guess.py
